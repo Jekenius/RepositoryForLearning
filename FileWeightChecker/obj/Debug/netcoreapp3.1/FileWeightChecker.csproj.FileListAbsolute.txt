@@ -1,0 +1,13 @@
+D:\Programming\FileWeightChecker\bin\Debug\netcoreapp3.1\FileWeightChecker.exe
+D:\Programming\FileWeightChecker\bin\Debug\netcoreapp3.1\FileWeightChecker.deps.json
+D:\Programming\FileWeightChecker\bin\Debug\netcoreapp3.1\FileWeightChecker.runtimeconfig.json
+D:\Programming\FileWeightChecker\bin\Debug\netcoreapp3.1\FileWeightChecker.runtimeconfig.dev.json
+D:\Programming\FileWeightChecker\bin\Debug\netcoreapp3.1\FileWeightChecker.dll
+D:\Programming\FileWeightChecker\bin\Debug\netcoreapp3.1\FileWeightChecker.pdb
+D:\Programming\FileWeightChecker\obj\Debug\netcoreapp3.1\FileWeightChecker.csprojAssemblyReference.cache
+D:\Programming\FileWeightChecker\obj\Debug\netcoreapp3.1\FileWeightChecker.AssemblyInfoInputs.cache
+D:\Programming\FileWeightChecker\obj\Debug\netcoreapp3.1\FileWeightChecker.AssemblyInfo.cs
+D:\Programming\FileWeightChecker\obj\Debug\netcoreapp3.1\FileWeightChecker.csproj.CoreCompileInputs.cache
+D:\Programming\FileWeightChecker\obj\Debug\netcoreapp3.1\FileWeightChecker.dll
+D:\Programming\FileWeightChecker\obj\Debug\netcoreapp3.1\FileWeightChecker.pdb
+D:\Programming\FileWeightChecker\obj\Debug\netcoreapp3.1\FileWeightChecker.genruntimeconfig.cache
