@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\FileWeightChecker\\FileWeightChecker.csproj",
-      "projectName": "FileWeightChecker",
-      "projectPath": "D:\\Programming\\FileWeightChecker\\FileWeightChecker.csproj",
+      "projectUniqueName": "C:\\Users\\Евгений\\Documents\\GitHub\\RepositoryForLearning\\FileLengthChecker\\FileLengthChecker.csproj",
+      "projectName": "FileLengthChecker",
+      "projectPath": "C:\\Users\\Евгений\\Documents\\GitHub\\RepositoryForLearning\\FileLengthChecker\\FileLengthChecker.csproj",
       "packagesPath": "C:\\Users\\Евгений\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\FileWeightChecker\\obj\\",
+      "outputPath": "C:\\Users\\Евгений\\Documents\\GitHub\\RepositoryForLearning\\FileLengthChecker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Евгений\\AppData\\Roaming\\NuGet\\NuGet.Config",
