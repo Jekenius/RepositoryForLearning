@@ -1,0 +1,13 @@
+C:\Users\Евгений\Documents\GitHub\RepositoryForLearning\FileLengthChecker\bin\Debug\netcoreapp3.1\FileLengthChecker.exe
+C:\Users\Евгений\Documents\GitHub\RepositoryForLearning\FileLengthChecker\bin\Debug\netcoreapp3.1\FileLengthChecker.deps.json
+C:\Users\Евгений\Documents\GitHub\RepositoryForLearning\FileLengthChecker\bin\Debug\netcoreapp3.1\FileLengthChecker.runtimeconfig.json
+C:\Users\Евгений\Documents\GitHub\RepositoryForLearning\FileLengthChecker\bin\Debug\netcoreapp3.1\FileLengthChecker.runtimeconfig.dev.json
+C:\Users\Евгений\Documents\GitHub\RepositoryForLearning\FileLengthChecker\bin\Debug\netcoreapp3.1\FileLengthChecker.dll
+C:\Users\Евгений\Documents\GitHub\RepositoryForLearning\FileLengthChecker\bin\Debug\netcoreapp3.1\FileLengthChecker.pdb
+C:\Users\Евгений\Documents\GitHub\RepositoryForLearning\FileLengthChecker\obj\Debug\netcoreapp3.1\FileLengthChecker.csprojAssemblyReference.cache
+C:\Users\Евгений\Documents\GitHub\RepositoryForLearning\FileLengthChecker\obj\Debug\netcoreapp3.1\FileLengthChecker.AssemblyInfoInputs.cache
+C:\Users\Евгений\Documents\GitHub\RepositoryForLearning\FileLengthChecker\obj\Debug\netcoreapp3.1\FileLengthChecker.AssemblyInfo.cs
+C:\Users\Евгений\Documents\GitHub\RepositoryForLearning\FileLengthChecker\obj\Debug\netcoreapp3.1\FileLengthChecker.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Documents\GitHub\RepositoryForLearning\FileLengthChecker\obj\Debug\netcoreapp3.1\FileLengthChecker.dll
+C:\Users\Евгений\Documents\GitHub\RepositoryForLearning\FileLengthChecker\obj\Debug\netcoreapp3.1\FileLengthChecker.pdb
+C:\Users\Евгений\Documents\GitHub\RepositoryForLearning\FileLengthChecker\obj\Debug\netcoreapp3.1\FileLengthChecker.genruntimeconfig.cache
